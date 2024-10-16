@@ -28,5 +28,5 @@ For the testimonial slider, I used SwiperJS
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/PWTaberg/manage-landing-page)
+- Live Site URL: [Github pages](https://pwtaberg.github.io/manage-landing-page/)
